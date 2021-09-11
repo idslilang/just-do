@@ -1,0 +1,5 @@
+# Auto Configure
+# org.springframework.boot.env.EnvironmentPostProcessor=\
+#   com.just.mybatis.autoconfig.SafetyEncryptProcessor
+# org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#   com.just.mybatis.autoconfig.MybatisPlusAutoConfiguration
